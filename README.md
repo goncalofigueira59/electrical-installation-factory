@@ -10,7 +10,7 @@
 
 ---
 
-## 📜 Índice
+## Índice
 
 - O Enunciado e o Objetivo Técnico
 - Arquitetura do Sistema: Alimentação, Distribuição e Proteções
